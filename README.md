@@ -1,5 +1,6 @@
 # Project-CE4-32dot
 32dot is a program that measures motion similarity using Google Mediapipe.
+
 32dot은 Google Mediapipe를 활용해 동작 유사도를 측정하는 프로그램입니다.
 
 32dot🕺
